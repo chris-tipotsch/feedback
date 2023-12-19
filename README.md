@@ -1,4 +1,4 @@
-# feedback
+# Feedback
 *Feedback - Verbesserungsideen, Anregungen, Request, Bugs, Incidents*
 ![image](https://user-images.githubusercontent.com/78310643/215259008-9a96b092-f69b-46e6-ac13-209f5315dc00.png)
 
